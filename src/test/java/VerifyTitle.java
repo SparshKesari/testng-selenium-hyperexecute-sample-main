@@ -22,6 +22,7 @@ public class VerifyTitle
     String testURL = "https://lambdatest.github.io/sample-todo-app/";
     String testURLTitle = "Sample page - lambdatest.com";
 
+    
     // add a test to verify the title of the page   
     @Test
     public void verifyTitle()
